@@ -16,8 +16,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="meme-api.com" width="512px"/>
+### 😂Certificate
+<img src="https://www.hackerrank.com/certificates/bef2e59b7f20" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CEOBien&icon=0&color=0)](https://visitcount.itsvg.in)
