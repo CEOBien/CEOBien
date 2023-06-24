@@ -152,7 +152,13 @@
 </div>
 
 <h1 align="center">🎯Certificate </h1>
-<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/sql_basic%20certificate.jpg" width="512px"/>
+<div style="display: flex;">
+	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/sql_basic%20certificate.jpg" width="300px" />
+	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/rest_api_intermediate%20certificate_page-0001.jpg" width="300px"/>	
+</div>
+
+
+
 
 
 <!--horizontal divider(gradiant)-->
