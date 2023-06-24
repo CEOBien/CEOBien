@@ -152,8 +152,8 @@
 </div>
 
 <h1 align="center">🎯Certificate </h1>
-<img src="https://www.hackerrank.com/certificates/bef2e59b7f20" width="512px"/>
-<link src="https://www.hackerrank.com/certificates/bef2e59b7f20"></link>
+<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/sql_basic%20certificate.jpg" width="512px"/>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
