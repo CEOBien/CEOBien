@@ -155,7 +155,6 @@
 <div style="display: flex;">
 	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/sql_basic%20certificate.jpg" width="300px" />
 	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/rest_api_intermediate%20certificate_page-0001.jpg" width="300px"/>	
-	<embed src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/problem_solving_basic%20certificate.pdf" width="800" height="500" type="application/pdf">
 </div>
 
 
