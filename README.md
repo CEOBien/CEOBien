@@ -155,6 +155,7 @@
 <div style="display: flex;">
 	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/sql_basic%20certificate.jpg" width="300px" />
 	<img src="https://github.com/CEOBien/CEOBien/blob/main/Certificate/rest_api_intermediate%20certificate_page-0001.jpg" width="300px"/>	
+	<iframe src="http://docs.google.com/gview?url=https://vinasupport.com.com/my_pdf.pdf&embedded=true" style="width:800px; height:500px;" frameborder="0"></iframe>
 </div>
 
 
